@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 512 512">
+  <title>OS Mining logo</title>
+  <desc>White OS Mining monogram on a solid deep-blue square.</desc>
+  <rect width="512" height="512" fill="#004A76"/>
+  <path fill="#FFFFFF" fill-rule="evenodd" d="M119 185h80c25 0 45 20 45 44v54c0 25-20 44-45 44h-80c-25 0-45-19-45-44v-54c0-24 20-44 45-44zm0 22c-12 0-22 10-22 22v54c0 12 10 22 22 22h80c12 0 22-10 22-22v-54c0-12-10-22-22-22z"/>
+  <path fill="#FFFFFF" d="M307 185h129l-18 22H316c-14 0-24 9-24 22s10 21 24 21h73c30 0 50 15 50 38s-20 39-50 39h-97l21-22h76c15 0 25-6 25-17 0-12-10-17-25-17h-74c-28 0-48-16-48-41 0-26 19-45 40-45z"/>
+  <path fill="#FFFFFF" d="M254 305h14v22h-24zM458 305h14v22h-24z"/>
+</svg>
